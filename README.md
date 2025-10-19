@@ -2,7 +2,8 @@
 
 <!--
 **anmolregmi3728-sudo/anmolregmi3728-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- I am currently learning python language.
+- I am interested in cyber security.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
